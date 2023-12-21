@@ -31,6 +31,6 @@ public class App {
         for (int index = 0; index < negativoList.size(); index++) {
             System.out.print("*");
         }
-    
+        leer.close();
     }
 }
